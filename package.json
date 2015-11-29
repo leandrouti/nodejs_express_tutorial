@@ -1,0 +1,26 @@
+{
+  "name": "express_tutorial",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Express tutorial",
+  "main": "expresstut.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "express_tutorial"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "javascript",
+    "tutorial"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1"
+  }
+}
